@@ -26,7 +26,7 @@ Modern, offline first IDS signature knowledgebase for **Snort** and **Suricata**
 This project is currently under active development. 
 
 **Coming Soon:**
-* Full YAML schema specification for IDS rules.
+* Full schema specification for IDS rules.
 * CLI tool for rule indexing and searching.
 * Automated translation logic for Snort/Suricata.
 
