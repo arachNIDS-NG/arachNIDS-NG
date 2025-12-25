@@ -4,7 +4,7 @@
 [![Offline](https://img.shields.io/badge/Privacy-100%25_Offline-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-Modern, offline-first IDS signature knowledgebase for **Snort** and **Suricata**. 
+Modern, offline first IDS signature knowledgebase for **Snort** and **Suricata**. 
 
 > Continuation of the `arachNIDS` project — now CLI-native, versioned, and built for modern DevSecOps workflows.
 
